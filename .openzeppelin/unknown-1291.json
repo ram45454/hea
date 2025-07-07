@@ -19,7 +19,7 @@
             "offset": 0,
             "slot": "0",
             "type": "t_string_storage",
-            "contract": "Swisstronik",
+            "contract": "Swisstronnik",
             "src": "contracts/Hello_swtr.sol:5"
           }
         ],
@@ -34,4 +34,4 @@
     }
   }
 }
-}
+
